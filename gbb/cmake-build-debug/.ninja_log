@@ -1,0 +1,9 @@
+# ninja log v6
+4	305	1717742797179655765	CMakeFiles/untitled.dir/main.cpp.o	4aaf35a4323c84a8
+305	338	1717742797481172950	untitled	b67739d5e1fd3f86
+5	319	1717743514622440462	CMakeFiles/untitled.dir/func.cpp.o	de81ecfd6a0e1ebe
+4	321	1717743514621778102	CMakeFiles/untitled.dir/main.cpp.o	4aaf35a4323c84a8
+4	292	1717743557212438708	CMakeFiles/untitled.dir/main.cpp.o	4aaf35a4323c84a8
+4	305	1717743672139928573	CMakeFiles/untitled.dir/main.cpp.o	4aaf35a4323c84a8
+4	305	1717743672140248816	CMakeFiles/untitled.dir/func.cpp.o	de81ecfd6a0e1ebe
+305	336	1717743672441476288	untitled	27c7b655f79963a5
